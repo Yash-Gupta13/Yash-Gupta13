@@ -1,8 +1,10 @@
 # 💫 About Me:
-🚀 Full Stack Developer | MERN Stack & React Native
-🌐 Crafting modern web & mobile experiences
-⚛️ Passionate about performance, UI/UX, and scalable code
-🧠 Always learning | 💬 Open to collaboration
+I'm a Full Stack Developer with hands-on experience in building web and mobile applications using the MERN Stack (MongoDB, Express, React, Node.js) and React Native.
+
+🔹 Passionate about crafting seamless UI/UX and writing clean, maintainable code  
+🔹 Experienced in building RESTful APIs, integrating third-party services, and managing state effectively  
+🔹 Always learning and exploring new tools, libraries, and best practices  
+🔹 Currently focused on developing performance-optimized, responsive applications
 
 
 ## 🌐 Socials:
