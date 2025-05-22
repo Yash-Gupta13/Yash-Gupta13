@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋! My name is Yash Gupta and I'm a Software Developer, from Lucknow, India.
+🚀 Full Stack Developer | MERN Stack & React Native
+🌐 Crafting modern web & mobile experiences
+⚛️ Passionate about performance, UI/UX, and scalable code
+🧠 Always learning | 💬 Open to collaboration
 
 
 ## 🌐 Socials:
